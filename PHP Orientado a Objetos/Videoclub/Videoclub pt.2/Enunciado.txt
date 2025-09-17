@@ -1,0 +1,4 @@
+321 Crea la clase CintaVideo la cual hereda de Soporte. Añade el atributo duracion y sobreescribe tanto el contructor como el método muestraResumen (desde CintaVideo deberás llamar al método muestraResumen del padre). Añade a inicio.php el código para probar la clase: 
+VER ESTRUCTURA EN APUNTES
+322 Crea la clase Dvd la cual hereda de Soporte. Añade los atributos idiomas y formatoPantalla. A continuación sobreescribe tanto el contructor como el método muestraResumen. Añade a inicio.php el código para probar la clase:
+VER ESTRUCTURA EN APUNTES
